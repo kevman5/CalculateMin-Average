@@ -1,0 +1,10 @@
+C:\Users\kevmm\source\repos\FindtheMin_andAverage\FindtheMin_andAverage\bin\Debug\FindtheMin_andAverage.exe.config
+C:\Users\kevmm\source\repos\FindtheMin_andAverage\FindtheMin_andAverage\bin\Debug\FindtheMin_andAverage.exe
+C:\Users\kevmm\source\repos\FindtheMin_andAverage\FindtheMin_andAverage\bin\Debug\FindtheMin_andAverage.pdb
+C:\Users\kevmm\source\repos\FindtheMin_andAverage\FindtheMin_andAverage\obj\Debug\FindtheMin_andAverage.csproj.AssemblyReference.cache
+C:\Users\kevmm\source\repos\FindtheMin_andAverage\FindtheMin_andAverage\obj\Debug\FindtheMin_andAverage.Form1.resources
+C:\Users\kevmm\source\repos\FindtheMin_andAverage\FindtheMin_andAverage\obj\Debug\FindtheMin_andAverage.Properties.Resources.resources
+C:\Users\kevmm\source\repos\FindtheMin_andAverage\FindtheMin_andAverage\obj\Debug\FindtheMin_andAverage.csproj.GenerateResource.cache
+C:\Users\kevmm\source\repos\FindtheMin_andAverage\FindtheMin_andAverage\obj\Debug\FindtheMin_andAverage.csproj.CoreCompileInputs.cache
+C:\Users\kevmm\source\repos\FindtheMin_andAverage\FindtheMin_andAverage\obj\Debug\FindtheMin_andAverage.exe
+C:\Users\kevmm\source\repos\FindtheMin_andAverage\FindtheMin_andAverage\obj\Debug\FindtheMin_andAverage.pdb
